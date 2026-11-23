@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-22T11:01:41Z",
+  "lastUpdated": "2026-11-23T12:11:16Z",
   "sources": [
     "Anthropic Academy",
     "Anthropic Partner Academy",
@@ -1659,7 +1659,7 @@
       "role": "Developer",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     },
     {
       "provider": "GitHub",
@@ -1678,7 +1678,7 @@
       "role": "Developer",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     },
     {
       "provider": "GitHub",
@@ -1697,7 +1697,7 @@
       "role": "Business",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     },
     {
       "provider": "Google Cloud",
@@ -1722,7 +1722,7 @@
         "currency": "USD"
       },
       "addedAt": "2026-11-11",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     },
     {
       "provider": "Google Cloud",
@@ -1747,7 +1747,7 @@
         "currency": "USD"
       },
       "addedAt": "2026-11-11",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     },
     {
       "provider": "Google Cloud",
@@ -1772,7 +1772,7 @@
         "currency": "USD"
       },
       "addedAt": "2026-11-11",
-      "verifiedAt": "2026-11-22"
+      "verifiedAt": "2026-11-23"
     }
   ]
 }
